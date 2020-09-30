@@ -15,6 +15,7 @@ public class BankAccount {
 		this.accountNumber = accountNumber();
 		this.balance = 0.0;
 		this.savings = 0.0;
+
 		numberOfBankAccounts++;
 
 	}
